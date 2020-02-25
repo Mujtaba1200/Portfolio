@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My Personal Potfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mujtaba1200/Portfolio.git"
+  },
+  "author": "mujtaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mujtaba1200/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Mujtaba1200/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1"
+  }
+}
