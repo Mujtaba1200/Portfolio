@@ -1,0 +1,34 @@
+#description {
+    padding-top: 3rem;
+    
+}
+
+.footer {   
+    position: static; 
+    margin-top: 1rem;
+    left: 0;
+    bottom: 0; 
+    width: 100%; 
+    background-color : #005792; 
+    color: white; 
+    text-align: center; 
+}
+
+#name { 
+    color: #fd5f00;
+    font-family: 'Caladea', serif;
+}
+
+body {
+    background-color: #d9faff;
+    color: #005792;
+    font-family: 'Fira Sans', sans-serif;
+}
+#project-box {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+#picture {
+    padding: 1rem;
+
+}

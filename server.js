@@ -3,9 +3,7 @@ const app = express();
 const port = 3000;
 const path = require ("path");
 
-app.get("*", function(request,response){
-    response.sendFile(path.join(__dirname+"/client/index.html"));
-})
+app.use(express.static('client'));
 
 app.listen(port, function(error) {
     if(error) {
